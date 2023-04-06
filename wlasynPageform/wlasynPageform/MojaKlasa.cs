@@ -9,6 +9,7 @@ using wlasynPageform;
 
 
 
+
 namespace wlasynPageform
 {
     public class MojaKlasa
